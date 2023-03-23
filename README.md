@@ -1,6 +1,6 @@
 <!--
 # Loja_Virtual_Bootstrap5
-Repositório criado para documentar e armazenar dicas e códigos do projeto de Loja Virtual com Bootstrap5.
+Repositório criado para documentar e armazenar dicas, códigos, exercícios e projetos que me ajudaram durante o meu processo de aprendizagem e criação de lojas virtuais com Bootstrap5.
 -->
 
 
@@ -9,11 +9,11 @@ Repositório criado para documentar e armazenar dicas e códigos do projeto de L
 </h1>
 
 <h3>
-  Esse é o meu repositorio de dicas e códigos do projeto de Loja Virtual com Bootstrap5.
+  Esse é o meu repositorio com dicas e códigos e projetos de Lojas Virtuais com Bootstrap5.
 </h3>
 
 <h5> 
- Repositório criado para documentar e armazenar dicas e códigos do projeto de Loja Virtual com Bootstrap5.
+ Repositório criado para documentar e armazenar dicas, códigos, exercícios e projetos que me ajudaram durante o meu processo de aprendizagem e criação de lojas virtuais com Bootstrap5.
 </h5>
 
 <h2> 🎯 Objetivo </h2>
